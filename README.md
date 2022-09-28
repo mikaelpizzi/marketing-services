@@ -4,8 +4,9 @@ This is my solution to a test assignment where I had to design and code a single
 
 ## Links
 
-- <a href="https://marketing-services-project.netlify.app/" target="_blank">Live Site URL</a>
-- <a href="https://github.com/mikaelpizzi/marketing-services/" target="_blank">Github Repository</a>
+
+- [Live Site URL](https://marketing-services-project.netlify.app/)
+- [Github Repository](https://github.com/mikaelpizzi/marketing-services)
 
 ## Built With
 
@@ -16,5 +17,5 @@ This is my solution to a test assignment where I had to design and code a single
 
 ## Author
 
-- Portfolio - <a href="https://mikaelpizzi.netlify.com/" target="_blank">Mikael Pizzi</a>
-- Linkedin - <a href="https://www.linkedin.com/in/mikaelpizzi/" target="_blank">Mikael Pizzi</a>
+- Portfolio - [Mikael Pizzi](https://mikaelpizzi.netlify.com/)
+- Linkedin - [Mikael Pizzi](https://www.linkedin.com/in/mikaelpizzi/)
